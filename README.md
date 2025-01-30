@@ -1,5 +1,5 @@
 
-﻿# Projeto Trocar Imagem da Página
+# Projeto Trocar Imagem da Página
 
 ![](./img/image.png)
 
