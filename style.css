@@ -5,11 +5,11 @@
 }
 
 :root {
-    --imagem1: url('./img/corinthians1.jpg');
-    --imagem2: url('./img/corinthians2.jpg');
-    --imagem3: url('./img/corinthians3.jpg');
-    --imagem4: url('./img/corinthians4.jpg');
-    --imagem5: url('./img/corinthians5.jpg');
+    --imagem1: url('./img/gta1.webp');
+    --imagem2: url('./img/gta2.webp');
+    --imagem3: url('./img/gta3.jpg');
+    --imagem4: url('./img/gta4.jpg');
+    --imagem5: url('./img/gta5.jpg');
 }
 
 body{
@@ -22,6 +22,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 
+}
+
+#img{
+    padding: 16px 32px;
+    font-size: 24px;
+    outline: none;
 }
 
 #trocar-img{
